@@ -1,4 +1,4 @@
-![image](https://github.com/Nailuo2/Sunnet/assets/170518278/e47e7d5b-3e63-4a02-901a-ec5e770811a8)## C++仿写简易Skynet
+## C++仿写简易Skynet
 
 **演示：**
 
@@ -27,4 +27,15 @@ gcc
 
 **运行：**
 
+git：git clone https://github.com/Nailuo2/Sunnet.git
+
+cd Sunnet/build
+
+cmake ../
+
+make
+
+./sunnet
+
+客户端：telnet 127.0.0.1 8002
 
