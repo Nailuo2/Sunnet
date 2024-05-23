@@ -27,7 +27,7 @@ gcc
 
 **运行：**
 
-git：git clone https://github.com/Nailuo2/Sunnet.git
+克隆：git clone https://github.com/Nailuo2/Sunnet.git
 
 cd Sunnet/build
 
